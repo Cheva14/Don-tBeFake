@@ -11,7 +11,7 @@ import SwiftUI
 struct Don_tBeFakeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoadingScreen()
         }
     }
 }
